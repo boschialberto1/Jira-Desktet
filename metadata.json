@@ -1,0 +1,6 @@
+{
+    "uuid": "jira@alberto",
+    "name": "JIRA the nightmare",
+    "description": "Displays Jira tasks",
+    "prevent-decorations": true
+}

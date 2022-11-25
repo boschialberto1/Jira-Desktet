@@ -1,0 +1,26 @@
+{
+    "top": {
+        "type": "header",
+        "description": "Jira Desklet box Settings"
+    },
+    "width": {
+        "type": "spinbutton",
+        "default": 400,
+        "min": 200,
+        "max": 600,
+        "step": 1,
+        "units": "pixels",
+        "description": "Box width (in px)",
+        "tooltip": "Enter number only."
+    },
+    "height": {
+        "type": "spinbutton",
+        "default": 500,
+        "min": 100,
+        "max": 600,
+        "step": 1,
+        "units": "pixels",
+        "description": "Box height (in px)",
+        "tooltip": "Enter number only."
+    }
+}
